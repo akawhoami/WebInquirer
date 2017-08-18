@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DatabaseModelStoreContainer" CdmEntityContainer="DatabaseEntities">
+    <EntitySetMapping Name="Answers">
+      <EntityTypeMapping TypeName="DatabaseModel.Answers">
+        <MappingFragment StoreEntitySet="Answers">
+          <ScalarProperty Name="value" ColumnName="value" />
+          <ScalarProperty Name="idTest" ColumnName="idTest" />
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="idQuestion" ColumnName="idQuestion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Entries">
+      <EntityTypeMapping TypeName="DatabaseModel.Entries">
+        <MappingFragment StoreEntitySet="Entries">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="idQuestion" ColumnName="idQuestion" />
+          <ScalarProperty Name="name" ColumnName="name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Questions">
+      <EntityTypeMapping TypeName="DatabaseModel.Questions">
+        <MappingFragment StoreEntitySet="Questions">
+          <ScalarProperty Name="value" ColumnName="value" />
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="idTest" ColumnName="idTest" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="type" ColumnName="type" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tests">
+      <EntityTypeMapping TypeName="DatabaseModel.Tests">
+        <MappingFragment StoreEntitySet="Tests">
+          <ScalarProperty Name="passed" ColumnName="passed" />
+          <ScalarProperty Name="description" ColumnName="description" />
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,64 @@
+c:\Users\Denis\Documents\Visual Studio 2015\Projects\WebInquirer\WebInquirer\bin\WebInquirer.dll.config
+c:\Users\Denis\Documents\Visual Studio 2015\Projects\WebInquirer\WebInquirer\bin\WebInquirer.dll
+c:\Users\Denis\Documents\Visual Studio 2015\Projects\WebInquirer\WebInquirer\bin\WebInquirer.pdb
+c:\Users\Denis\Documents\Visual Studio 2015\Projects\WebInquirer\WebInquirer\bin\Antlr3.Runtime.dll
+c:\Users\Denis\Documents\Visual Studio 2015\Projects\WebInquirer\WebInquirer\bin\EntityFramework.dll
+c:\Users\Denis\Documents\Visual Studio 2015\Projects\WebInquirer\WebInquirer\bin\EntityFramework.SqlServer.dll
+c:\Users\Denis\Documents\Visual Studio 2015\Projects\WebInquirer\WebInquirer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\Users\Denis\Documents\Visual Studio 2015\Projects\WebInquirer\WebInquirer\bin\Microsoft.Web.Infrastructure.dll
+c:\Users\Denis\Documents\Visual Studio 2015\Projects\WebInquirer\WebInquirer\bin\Newtonsoft.Json.dll
+c:\Users\Denis\Documents\Visual Studio 2015\Projects\WebInquirer\WebInquirer\bin\System.Web.Helpers.dll
+c:\Users\Denis\Documents\Visual Studio 2015\Projects\WebInquirer\WebInquirer\bin\System.Web.Mvc.dll
+c:\Users\Denis\Documents\Visual Studio 2015\Projects\WebInquirer\WebInquirer\bin\System.Web.Optimization.dll
+c:\Users\Denis\Documents\Visual Studio 2015\Projects\WebInquirer\WebInquirer\bin\System.Web.Razor.dll
+c:\Users\Denis\Documents\Visual Studio 2015\Projects\WebInquirer\WebInquirer\bin\System.Web.WebPages.Deployment.dll
+c:\Users\Denis\Documents\Visual Studio 2015\Projects\WebInquirer\WebInquirer\bin\System.Web.WebPages.dll
+c:\Users\Denis\Documents\Visual Studio 2015\Projects\WebInquirer\WebInquirer\bin\System.Web.WebPages.Razor.dll
+c:\Users\Denis\Documents\Visual Studio 2015\Projects\WebInquirer\WebInquirer\bin\WebGrease.dll
+c:\Users\Denis\Documents\Visual Studio 2015\Projects\WebInquirer\WebInquirer\bin\Antlr3.Runtime.pdb
+c:\Users\Denis\Documents\Visual Studio 2015\Projects\WebInquirer\WebInquirer\bin\EntityFramework.xml
+c:\Users\Denis\Documents\Visual Studio 2015\Projects\WebInquirer\WebInquirer\bin\EntityFramework.SqlServer.xml
+c:\Users\Denis\Documents\Visual Studio 2015\Projects\WebInquirer\WebInquirer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\Users\Denis\Documents\Visual Studio 2015\Projects\WebInquirer\WebInquirer\bin\Newtonsoft.Json.xml
+c:\Users\Denis\Documents\Visual Studio 2015\Projects\WebInquirer\WebInquirer\bin\System.Web.Helpers.xml
+c:\Users\Denis\Documents\Visual Studio 2015\Projects\WebInquirer\WebInquirer\bin\System.Web.Mvc.xml
+c:\Users\Denis\Documents\Visual Studio 2015\Projects\WebInquirer\WebInquirer\bin\System.Web.Optimization.xml
+c:\Users\Denis\Documents\Visual Studio 2015\Projects\WebInquirer\WebInquirer\bin\System.Web.Razor.xml
+c:\Users\Denis\Documents\Visual Studio 2015\Projects\WebInquirer\WebInquirer\bin\System.Web.WebPages.xml
+c:\Users\Denis\Documents\Visual Studio 2015\Projects\WebInquirer\WebInquirer\bin\System.Web.WebPages.Deployment.xml
+c:\Users\Denis\Documents\Visual Studio 2015\Projects\WebInquirer\WebInquirer\bin\System.Web.WebPages.Razor.xml
+c:\Users\Denis\Documents\Visual Studio 2015\Projects\WebInquirer\WebInquirer\obj\Debug\WebInquirer.csprojResolveAssemblyReference.cache
+c:\Users\Denis\Documents\Visual Studio 2015\Projects\WebInquirer\WebInquirer\obj\Debug\WebInquirer.dll
+c:\Users\Denis\Documents\Visual Studio 2015\Projects\WebInquirer\WebInquirer\obj\Debug\WebInquirer.pdb
+C:\Dev\Project\WebInquirer\WebInquirer\bin\WebInquirer.dll.config
+C:\Dev\Project\WebInquirer\WebInquirer\bin\WebInquirer.dll
+C:\Dev\Project\WebInquirer\WebInquirer\bin\WebInquirer.pdb
+C:\Dev\Project\WebInquirer\WebInquirer\bin\Antlr3.Runtime.dll
+C:\Dev\Project\WebInquirer\WebInquirer\bin\EntityFramework.dll
+C:\Dev\Project\WebInquirer\WebInquirer\bin\EntityFramework.SqlServer.dll
+C:\Dev\Project\WebInquirer\WebInquirer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Dev\Project\WebInquirer\WebInquirer\bin\Microsoft.Web.Infrastructure.dll
+C:\Dev\Project\WebInquirer\WebInquirer\bin\Newtonsoft.Json.dll
+C:\Dev\Project\WebInquirer\WebInquirer\bin\System.Web.Helpers.dll
+C:\Dev\Project\WebInquirer\WebInquirer\bin\System.Web.Mvc.dll
+C:\Dev\Project\WebInquirer\WebInquirer\bin\System.Web.Optimization.dll
+C:\Dev\Project\WebInquirer\WebInquirer\bin\System.Web.Razor.dll
+C:\Dev\Project\WebInquirer\WebInquirer\bin\System.Web.WebPages.Deployment.dll
+C:\Dev\Project\WebInquirer\WebInquirer\bin\System.Web.WebPages.dll
+C:\Dev\Project\WebInquirer\WebInquirer\bin\System.Web.WebPages.Razor.dll
+C:\Dev\Project\WebInquirer\WebInquirer\bin\WebGrease.dll
+C:\Dev\Project\WebInquirer\WebInquirer\bin\Antlr3.Runtime.pdb
+C:\Dev\Project\WebInquirer\WebInquirer\bin\EntityFramework.xml
+C:\Dev\Project\WebInquirer\WebInquirer\bin\EntityFramework.SqlServer.xml
+C:\Dev\Project\WebInquirer\WebInquirer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Dev\Project\WebInquirer\WebInquirer\bin\Newtonsoft.Json.xml
+C:\Dev\Project\WebInquirer\WebInquirer\bin\System.Web.Helpers.xml
+C:\Dev\Project\WebInquirer\WebInquirer\bin\System.Web.Mvc.xml
+C:\Dev\Project\WebInquirer\WebInquirer\bin\System.Web.Optimization.xml
+C:\Dev\Project\WebInquirer\WebInquirer\bin\System.Web.Razor.xml
+C:\Dev\Project\WebInquirer\WebInquirer\bin\System.Web.WebPages.xml
+C:\Dev\Project\WebInquirer\WebInquirer\bin\System.Web.WebPages.Deployment.xml
+C:\Dev\Project\WebInquirer\WebInquirer\bin\System.Web.WebPages.Razor.xml
+C:\Dev\Project\WebInquirer\WebInquirer\obj\Debug\WebInquirer.csprojResolveAssemblyReference.cache
+C:\Dev\Project\WebInquirer\WebInquirer\obj\Debug\WebInquirer.dll
+C:\Dev\Project\WebInquirer\WebInquirer\obj\Debug\WebInquirer.pdb
